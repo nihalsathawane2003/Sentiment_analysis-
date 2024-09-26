@@ -34,5 +34,5 @@ The dataset used for this project is a collection of tweets with associated sent
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TwitterSentimentAnalysis.git
+   git clone https://github.com/nihalsathawane2003/Sentiment_analysis-.git
    cd TwitterSentimentAnalysis
